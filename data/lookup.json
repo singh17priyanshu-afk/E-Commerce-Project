@@ -1,26 +1,26 @@
 [
 	{
-	"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_customers_dataset.csv",
-	"file_name":"olist_customers_dataset.csv"
+		"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_customers_dataset.csv",
+		"file_name":"olist_customers_dataset.csv"
 	},
 	{
-	"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_order_items_dataset.csv",
-	"file_name":"olist_order_items_dataset.csv"
+		"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_order_items_dataset.csv",
+		"file_name":"olist_order_items_dataset.csv"
 	},
 	{
-	"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_orders_dataset.csv",
-	"file_name":"olist_orders_dataset.csv"
+		"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_orders_dataset.csv",
+		"file_name":"olist_orders_dataset.csv"
 	},
 	{
-	"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_order_reviews_dataset.csv",
-	"file_name":"olist_order_reviews_dataset.csv"
+		"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_order_reviews_dataset.csv",
+		"file_name":"olist_order_reviews_dataset.csv"
 	},
 	{
-	"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_products_dataset.csv",
-	"file_name":"olist_products_dataset.csv"
+		"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_products_dataset.csv",
+		"file_name":"olist_products_dataset.csv"
 	},
 	{
-	"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_sellers_dataset.csv",
-	"file_name":"olist_sellers_dataset.csv"
+		"csv_relative_url":"E-Commerce-Project/refs/heads/main/data/sample/olist_sellers_dataset.csv",
+		"file_name":"olist_sellers_dataset.csv"
 	}
 ]
